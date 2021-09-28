@@ -1,0 +1,6 @@
+#FileLock
+#Tue Sep 28 12:16:50 BRT 2021
+server=127.0.1.1\:45065
+hostName=laptop
+method=file
+id=17c2cfadc475d8470c5f1aa5a6d03d91726291f8e92
